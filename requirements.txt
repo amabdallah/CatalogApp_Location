@@ -1,8 +1,1 @@
-ggplot2
-XML
-RColorBrewer
-RCurl
-plotly
-leaflet.esri
-maps
-rgdal
+
