@@ -1,0 +1,8 @@
+install.packages("ggplot2")
+install.packages("XML")
+install.packages("RColorBrewer")
+install.packages("RCurl")
+install.packages("plotly")
+install.packages("leaflet.esri")
+install.packages("maps")
+install.packages("rgdal")
